@@ -1,15 +1,6 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
-  
-
   
 # Trip Planner App :earth_africa:	:mountain_snow:
 
@@ -39,6 +30,7 @@ Currently, two official plugins are available:
 ## About the Project  :star2:
 ![11](https://github.com/shreya-uttam309/Full-Stack-AI-Trip-Planner/blob/main/screencapture-localhost-5173-2025-03-04-17_46_41.png?raw=true)
 ![3](https://github.com/shreya-uttam309/Full-Stack-AI-Trip-Planner/blob/main/screencapture-localhost-5173-create-trip-2025-03-04-17_47_37.png?raw=true)
+![4](https://github.com/shreya-uttam309/Full-Stack-AI-Trip-Planner/blob/main/screenshot-3.png?raw=true)
 
 
 <br />

@@ -39,8 +39,7 @@ Currently, two official plugins are available:
 ## About the Project  :star2:
 ![11](https://github.com/shreya-uttam309/Full-Stack-AI-Trip-Planner/blob/main/screencapture-localhost-5173-2025-03-04-17_46_41.png?raw=true)
 ![3](https://github.com/shreya-uttam309/Full-Stack-AI-Trip-Planner/blob/main/screencapture-localhost-5173-create-trip-2025-03-04-17_47_37.png?raw=true)
-![2](https://github.com/user-attachments/assets/35b35f6e-dbe2-4a3d-88a0-c14536688a4e)
-![1](https://github.com/user-attachments/assets/48151eb5-770f-4d8b-8149-c28a12a6fa39) 
+
 
 <br />
 
